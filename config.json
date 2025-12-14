@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "property-based-testing",
+      "title": "Property-Based Testing with Hypothesis",
+      "description": "Write property-based tests in Python using the Hypothesis library.",
+      "path": "assignments/property-based-testing",
+      "dueDate": "2025-12-21",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }

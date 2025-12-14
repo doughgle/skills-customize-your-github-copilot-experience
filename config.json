@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "asyncio-downloader",
+      "title": "Asyncio Web Downloader",
+      "description": "Download multiple web pages concurrently using Python's asyncio and aiohttp.",
+      "path": "assignments/asyncio-downloader",
+      "dueDate": "2025-12-21",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
